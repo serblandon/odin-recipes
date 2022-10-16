@@ -4,4 +4,4 @@ This website is the first personal project in The Odin Project web development c
 The project is called Recipes and will contain a main page and different pages with some recipes(ingredients and instructions).
 
 # website
-[Go To website](#https://serblandon.github.io/odin-recipes/)
+[Go to Recipe Website](https://serblandon.github.io/odin-recipes/)
