@@ -5,3 +5,7 @@ The project is called Recipes and will contain a main page and different pages w
 
 # website link
 [Go to Recipe Website](https://serblandon.github.io/odin-recipes/)
+
+# credits
+-Anna McNulty/youtube
+-https://www.acouplecooks.com/
